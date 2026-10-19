@@ -14,4 +14,4 @@ This repository contains reference pseudocode solutions for foundational program
 * Sorted Vector Insertion: In-place position search and element shifting to insert a new value while preserving ascending or descending ordering.
 
 ## Repository Contents
-* Problememase.c: Clean seminar pseudocode covering conditional branching logic and vector processing routines.
+* Document_21_Seminar_Probleme.pdf: Complete seminar problem set documentation containing original problem specifications and handwritten pseudocode routines.
